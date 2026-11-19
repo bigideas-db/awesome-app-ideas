@@ -16,7 +16,7 @@
 
 [![Sponsored by BigIdeasDB](https://img.shields.io/badge/Sponsored%20by-BigIdeasDB-f97316)](https://bigideasdb.com/?utm_source=github&utm_medium=awesome-app-ideas&utm_campaign=awesome-list)
 ![Data snapshot](https://img.shields.io/badge/data-November%202026-0ea5e9)
-![App ideas](https://img.shields.io/badge/app%20ideas-604-22c55e)
+![App ideas](https://img.shields.io/badge/app%20ideas-607-22c55e)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
 > A curated, data-ranked list of **app ideas**: mobile app ideas for iPhone and Android, AI app ideas, niche app ideas, app ideas for students and small businesses, and app ideas that make money. Every idea is ranked by real data (how badly today's apps are rated and what users complain about), not opinion, from [BigIdeasDB](https://bigideasdb.com/?utm_source=github&utm_medium=awesome-app-ideas&utm_campaign=awesome-list).
@@ -1007,6 +1007,9 @@ Check three numbers: a rating gap of 0.5+ stars, a category where 14.9% or more 
 * [Awesome App Ideas](https://github.com/bigideas-db/awesome-app-ideas) - This list.
 * [Awesome SaaS Valuation](https://github.com/bigideas-db/awesome-saas-valuation) - What software businesses sell for.
 * [Awesome Buy a Business](https://github.com/bigideas-db/awesome-buy-a-business) - Businesses for sale, ranked by buyer fit.
+* [Awesome Startup Ideas](https://github.com/bigideas-db/awesome-startup-ideas) - Startup ideas ranked by funding momentum, paying demand and complaints.
+* [Awesome AI Business Ideas](https://github.com/bigideas-db/awesome-ai-business-ideas) - AI agent, automation agency and AI SaaS ideas ranked by operator volume and software gaps.
+* [Awesome Idea Validation](https://github.com/bigideas-db/awesome-idea-validation) - How to validate an idea: checklist, benchmark numbers to beat and market sizing.
 
 ## Cite this list
 
